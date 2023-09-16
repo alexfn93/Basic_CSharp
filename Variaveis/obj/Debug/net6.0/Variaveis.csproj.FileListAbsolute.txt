@@ -1,0 +1,14 @@
+C:\Alex\C#\Variaveis\bin\Debug\net6.0\Variaveis.exe
+C:\Alex\C#\Variaveis\bin\Debug\net6.0\Variaveis.deps.json
+C:\Alex\C#\Variaveis\bin\Debug\net6.0\Variaveis.runtimeconfig.json
+C:\Alex\C#\Variaveis\bin\Debug\net6.0\Variaveis.dll
+C:\Alex\C#\Variaveis\bin\Debug\net6.0\Variaveis.pdb
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfoInputs.cache
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfo.cs
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.dll
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\refint\Variaveis.dll
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.pdb
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\Variaveis.genruntimeconfig.cache
+C:\Alex\C#\Variaveis\obj\Debug\net6.0\ref\Variaveis.dll

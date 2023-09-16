@@ -1,0 +1,14 @@
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.AssemblyInfoInputs.cache
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.AssemblyInfo.cs
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.csproj.CoreCompileInputs.cache
+C:\Alex\C#\Conversão\bin\Debug\net6.0\Conversão.exe
+C:\Alex\C#\Conversão\bin\Debug\net6.0\Conversão.deps.json
+C:\Alex\C#\Conversão\bin\Debug\net6.0\Conversão.runtimeconfig.json
+C:\Alex\C#\Conversão\bin\Debug\net6.0\Conversão.dll
+C:\Alex\C#\Conversão\bin\Debug\net6.0\Conversão.pdb
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.dll
+C:\Alex\C#\Conversão\obj\Debug\net6.0\refint\Conversão.dll
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.pdb
+C:\Alex\C#\Conversão\obj\Debug\net6.0\Conversão.genruntimeconfig.cache
+C:\Alex\C#\Conversão\obj\Debug\net6.0\ref\Conversão.dll
